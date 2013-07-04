@@ -1,0 +1,10 @@
+{
+	"name" : "kudzu",
+	"version" : "0.0.1",
+	"description" : "MOVE Application scaffolding for Express.js",
+	"dependencies" : {
+		"async" : "*",
+		"commander" : "*",
+		"nodeject" : "*" 
+	}
+}
